@@ -1,0 +1,32 @@
+* { margin: 0; padding:0; }
+
+.chart { width: 100%; overflow-x: auto; }
+
+.Treant > .node {
+    text-align: center;
+}
+
+.node-name { font-weight: bold;}
+
+.nodeStyling {
+    padding: 2px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background-color: #ffffff;
+    border: 1px solid #000;
+    min-width: 50px;
+    font-size: 16px;
+}
+
+.gray {
+    background-color: #909090;
+}
+
+.light-gray {
+    background-color: #D3D3C7;
+}
+
+.blue {
+    background-color: #A2BDFD;
+}
